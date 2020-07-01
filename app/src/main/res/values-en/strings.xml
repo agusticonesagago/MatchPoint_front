@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MatchPoint</string>
+
+    //Pantalla activity_valoracion
+    <string name="buttonValoracion">SEND FEEDBACK</string>
+    <string name="preguntaEvento">How much satisfied with the organizer of the event?</string>
+    <string name="textEventoExpl">Your participation in the event has ended successfully</string>
+    <string name="nombreEvento">SOCCER EVENT</string>
+
+    //Pantalla activity_evento
+    <string name="Hora">Hour</string>
+    <string name="Fecha">Date</string>
+    <string name="NumParticipantes">Number of participants:</string>
+    <string name="NumAsistentes">Number of assistants:</string>
+    <string name="NivelEvento">Event level:</string>
+    <string name="DescripcionEvento">Description of the event:</string>
+    <string name="ModificarEvento">MODIFY EVENT</string>
+    <string name="EliminarEvento">DELETE EVENT</string>
+
+    //Pantalla activity_evento_participante + utiliza activity_evento
+    <string name="Apuntarse">SUBSCRIBE</string>
+    <string name="Desapuntarse">UNSUBSCRIBE</string>
+
+    //Pantalla activity_informacion_deporte
+    <string name="TituloInfo">Sports information</string>
+    <string name="DuracionActividad">Approximate Duration of the activity:</string>
+    <string name="Min_players">Minimum of players:</string>
+    <string name="Max_players">Maximum of players:</string>
+    <string name="MaterialNecesario">Material needed:</string>
+    <string name="Calorias">Calories burned during a session:</string>
+    <string name="NivelFisico">Intensity of the activity:</string>
+
+
+    //Pantalla activity_filtrar
+    <string name="SeleccionaDeporte">Select a sport:</string>
+    <string name="FechaMayusculas">DATE</string>
+    <string name="SeleccionaNivel">Select a level:</string>
+    <string name="SeleccionaFecha">Select a date:</string>
+    <string name="TituloFiltrarEventos">    Filter Events</string>
+    <string name="FiltrarButton">FILTER</string>
+
+    //Pantalla activity_registrar y activity_login
+    <string name="NombreYApellidos">NAME AND SURNAME</string>
+    <string name="Username">USERNAME</string>
+    <string name="Género">GENDER</string>
+    <string name="FechaNacimiento">DATE OF BIRTH</string>
+    <string name="Email">EMAIL</string>
+    <string name="Password">PASSWORD</string>
+    <string name="EresUsuario">Already a member?</string>
+    <string name="NoUsuario">Not a member yet?</string>
+    <string name="LoginButton">LOGIN</string>
+    <string name="RegisterButton">REGISTER</string>
+    <string name="SignUpButton">SIGN UP</string>
+
+    //Pantalla activity_ranking_top5
+    <string name="Score">Score</string>
+    <string name="RankingUsername">Username</string>
+    <string name="title_activity_recuperar_contra">Password Recovery</string>
+
+</resources>
